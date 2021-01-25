@@ -1,0 +1,103 @@
+{
+    "products": [
+        {
+            "name": "Jordan 1 retro high Fearless UNC Chicago",
+             "image": "Productpagepics/jordan1.jpg",
+             "description": "DESCRIPTION: COLORWAY : WHITE UNIVERSITY BLUE VARSITY REDBLACK , RETAIL PRICE : $160 , RELEASE DATE: 11/02/2019 ",
+            "cost": "PRICE : $336",
+            "type": "Jordan 1's",
+            "price": "medium"
+        },
+        {
+            "name": "Jordan 3 retro UNC (2020)",
+            "image": "Productpagepics/jordan3.jpg",
+            "description": "DESCRIPTION: COLORWAY : WHITE/VALOR BLUE-TECH GREY, RETAIL PRICE : $190, RELEASE DATE:  03/07/2020 ",
+            "cost": "PRICE : $269 ",
+            "type": "Jordan 3's ",
+            "price": "medium"
+        },
+        {
+            "name": " Jordan 11 retro playoffs bread (2020)",
+            "image": "Productpagepics/jordan11.jpg",
+            "description": "DESCRIPTION: COLORWAY : BLACK/WHITE-VARSITY RED, RETAIL PRICE : $220 RELEASE DATE : 12/14/2019 ",
+            "cost": "PRICE :$244",
+            "type": "jordan 11's ",
+            "price": "low"
+        },
+        {
+            "name": "Jordan 5 retro OFF-WHITE sail ",
+            "image": "Productpagepics/jordan5.jpg",
+            "description": "DESCRIPTION: COLORWAY : SAIL/FIRE RED-MUSLIN-BLACK , RETAIL PRICE : $225 RELEASE DATE :10/29/2020  ",
+            "cost": "PRICE : $420",
+            "type": "Jordan 5's",
+            "price": "high"
+        },
+        {
+            "name": " Jordan 6 retro travis scott",
+            "image": "Productpagepics/jordan6.jpg",
+            "description": "DESCRIPTION:  COLORWAY : MEDIUM OLIVE/BLACK-SAIL-UNIVERSITY RED,  RETAIL PRICE : $250, RELEASE DATE:  10/11/2019 ",
+            "cost": "PRICE :$600",
+            "type": "Jordan's",
+            "price": "very-high"
+        },
+        {
+            "name": "Jordan 12 retro Michigan ",
+            "image": "Productpagepics/jordan12.jpg",
+            "description": "DESCRIPTION:  COLORWAY : COLLEGE NAVY/AMARILLO,  RETAIL PRICE : $225 ,RELEASE DATE: 06/23/2018 ",
+            "cost": "PRICE :$342",
+            "type": "Camaro",
+            "price": "high"
+        },
+        {
+            "name": "Jordan 14 retro challenge red ",
+            "image": "Productpagepics/jordan14.jpg",
+            "description": "DESCRIPTION:  COLORWAY : Black-Vibrant Yellow, RETAIL PRICE : $200 ,RELEASE DATE :09/06/2014 ",
+            "cost": "PRICE :$449",
+            "type": "Ferrari",
+            "price": "high"
+        },
+        {
+            "name": "adidas yezzy 700 V3 arzarcth ",
+            "image": "Productpagepics/yezzy700.jpg",
+            "description": "DESCRIPTION:  COLORWAY : Black-Vibrant Yellow, RETAIL PRICE : $200 ,RELEASE DATE :09/06/2014 ",
+            "cost": "PRICE :$340",
+            "type": "Maserati",
+            "price": "high"
+        },
+        {
+            "name": "Adidas yezzy 500 utility Black",
+            "image": "Productpagepics/yezzyblack.jpg",
+            "description": "DESCRIPTION: COLORWAY : UTILITY BLACK/UTILITY BLACK/UTILITY BLACK,  RETAIL PRICE : $200 ,RELEASE DATE : 07/07/2018 ",
+            "cost": "PRICE :$290",
+            "type": "BMW",
+            "price": "high"
+        },
+        {
+            "name": "Adidas yezzy boost 700 inertia",
+            "image": "Productpagepics/yezzygray.jpg",
+            "description": "DESCRIPTION: COLORWAY : AZARETH/AZARETH/AZARETH,  RETAIL PRICE: $200 , RELEASE DATE : 08/29/2020 ",
+            "cost": "PRICE : $395",
+            "type": "Aston Martin",
+            "price": "high"
+        },
+        {
+            "name": "Adidas yezzy 500 salt ",
+            "image": "Productpagepics/yezzysalt.jpg",
+            "description": "DESCRIPTION: COLORWAY : SALT/SALT/SALT , RETAIL PRICE:  $200 , RELEASE DATE : 11/30/2018 ",
+            "cost": "PRICE :$300",
+            "type": "Bugatti",
+            "price": "high"
+        },
+        {
+            "name": " Jordan 11 Retro Jubilee 25Th Anniversary25",
+            "image": "Productpagepics/jordan25th.jpg",
+            "description": "DESCRIPTION: COLORWAY :BLACK/MULTI-COLOR-WHITE-MULTI-COLOR, RETAIL PRICE:  $220 ,RELEASE DATE :  12/12/2020 ",
+
+            "cost": "PRICE :$300",
+            "type": "Bugatti",
+            "price": "high" 
+        }
+      
+    ]
+}
+
