@@ -10,9 +10,9 @@ export default function Links() {
     <div>
       <header className="header">
         <nav className="header--nav">
-          <Link to="/"><i class="cars"></i></Link>
+          <Link to="/"><i class="car"></i></Link>
 
-          <h2 className="img-h2">
+          <h2 className="nav-ul">
             <Link to="/">KICKING IT WITH TYREK ! SNEAKER HEAD WITH COLLECTABLES! 
               </Link>
           </h2>

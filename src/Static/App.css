@@ -5,7 +5,7 @@
   }
   
   body {
-    background-color: black;
+    background-color: white;
   }
   
   a {
@@ -13,7 +13,33 @@
   }
   
   /* Navbar */
-   .blue{
+  .nav-ul {
+    list-style: none;
+    color: black;
+  }
+  
+  nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: justify;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+  
+  .header{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  
+  
+  
+  
+  
+  .blue{
     text-align: center;
 
   }
@@ -28,28 +54,29 @@
     overflow: auto;
     width: 100vw;
     z-index: 2;
-    background-color: gray;
+    background-color: black;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
+    display: flex;
 
   }
 
   
-  .header--nav--ul {
+  /* .header--nav--ul {
     display: flex;
     align-items: center;
-    font-size: 20px;
+    font-size: 20px;  
     text-align: center;
   }
-  
-  nav a {
+   */
+  /* nav a {
   
     padding: 0;
     text-decoration: none;
     font-size: 20px;
     color: blue;
     text-align: center;
-  }
+  } */
   
   .nav-ul {
 /*   
@@ -61,10 +88,24 @@
    
   }
   
-  .header--nav-li:hover {
-    background: rgb(112, 110, 110);
+  .header--a:hover {
+    background-color: #ddd;
+    color: black;
   }
   
+ .header--nav{
+   background-color: black;
+  overflow: hidden;
+   text-align: justify;
+   list-style-type: none;
+   margin: 0%;
+   padding: 0%;
+   overflow: hidden;
+   position: fixed; /* Set the navbar to fixed position */
+   top: 0; /* Position the navbar at the top of the page */
+   width: 100%;
+   
+ }
  
   
 
@@ -83,6 +124,7 @@
   .footer--text {
     width: 50%;
     color: #fff;
+    background-color: black;
   }
   
   .footer--socialLinks {
@@ -108,12 +150,13 @@
   
   .footer--a {
     color: #fff;
+    background-color: black;
   }
   
   /* Products page */
   
 .h1{
-  color: black;
+  color: white;
   text-align: center;
 }
   
@@ -126,7 +169,7 @@
     display: flex;
     flex-wrap: wrap;
     margin: auto;
-    padding-top: 6.5rem;
+    padding-top: 5.5rem;
     margin-bottom: 2rem;
     justify-content: center;
     margin-bottom: 10rem;
@@ -140,7 +183,7 @@
   }
   
   #flex-container h3 {
-    color: black;
+    color: white;
   }
   
   #flex-container p {
@@ -150,14 +193,14 @@
   }
   
   .d1 {
-    background-color: #fff;
-    box-shadow: 0.438rem 0.438rem blue;
+    background-color: white;
+    box-shadow: 0.438rem 0.438rem black;
     height: 50rem;
-    width: 50%;
+    width: 40%;
     text-align: center;
     margin: 0.625rem;
     font-weight: 20px;
-    font-size: 10px;
+    font-size: 20px;
     font-family: "Courier New", Courier, monospace;
   }
   
@@ -177,10 +220,11 @@ body{
 }
   .l-heading {
     color: black;
-    font-size: 2.188rem;
+    font-size: 10rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 1.875rem;
     margin-bottom: 0.625rem;
+  
   }
   
   #contact-form .from-group {
